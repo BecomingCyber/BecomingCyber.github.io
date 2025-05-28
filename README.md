@@ -65,7 +65,7 @@ Created by [Mozella McCoy-Flowers](https://github.com/BecomingCyber)
 
 ## 🖼️ Preview
 
-![Screenshot of the Certified in Cybersecurity portfolio site](cc-study-portfolio.png)
+![Screenshot](assets/cc-study-portfolio.png)
 
 ---
 
