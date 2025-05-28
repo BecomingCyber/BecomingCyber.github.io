@@ -34,11 +34,14 @@ A customizable portfolio website to showcase your study journey for the **ISC2 C
 
 ---
 
-## 📁 File Structure
-/
+## 📁 File Structure/
+
 ├── index.html # Main landing page
+
 ├── assets/
+
 │ ├── style.css # Custom site styling
+
 │ └── favicon.ico # Optional site icon
 
 
